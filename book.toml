@@ -1,0 +1,7 @@
+[book]
+title = "Irene"
+authors = []
+language = "en"
+
+[output.html]
+additional-css = ["src/custom.css"]
