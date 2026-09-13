@@ -1,6 +1,6 @@
 ﻿# Bölüm 3
 
-<img src="images/Irene.png" class="ln-illustration" alt="Irene - 3. Bölüm">
+<img src="images/Irine4.png" class="ln-illustration" alt="Irene - 3. Bölüm">
 <div class="img-caption">✦ Irene — 3. Bölüm ✦</div>
 
 ![Sayfa 1](images/b3-s1.png)
