@@ -9,6 +9,3 @@
 ![Sayfa 5](images/b2-s5.png)
 ![Sayfa 6](images/b2-s6.png)
 
-## 1 - Kafes
-
-Buraya Bölüm 2'nin hikaye metnini yazacaksın. (Bölüm 1'deki gibi)
