@@ -1,6 +1,6 @@
 ﻿# Bölüm 2
 
-![Irene](images/Irene.png)
+![Irene](images/Irine2.png)
 *✦ Irene — 2. Bölüm ✦*
 
 ![Sayfa 2](images/b2-s2.png)
